@@ -20,8 +20,8 @@ bun dev
 
 
 
-- [Live URL]() 
-- [GithubRepo]() 
+- [Live URL](https://stay-swfit-6f9ypep2p-md-muktadir-nayems-projects.vercel.app/) 
+- [GithubRepo](https://github.com/Muktadirnayem66/staySwfit.git) 
 
 
 staySwift Project Overview - 
