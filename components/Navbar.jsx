@@ -44,7 +44,7 @@ const Navbar = async ({sidebar}) => {
               <Logout/>
 
             </div>
-          ) : (<Link href="/login" className="login">Login</Link>)
+          ):(<Link href="/login" className="login">Login</Link>)
         }
       </li>
     </ul>
