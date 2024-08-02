@@ -20,7 +20,7 @@ bun dev
 
 
 
-- [Live URL](https://stay-swfit-6f9ypep2p-md-muktadir-nayems-projects.vercel.app/) 
+- [Live URL](https://precious-mermaid-dcd4c5.netlify.app/) 
 - [GithubRepo](https://github.com/Muktadirnayem66/staySwfit.git) 
 
 
